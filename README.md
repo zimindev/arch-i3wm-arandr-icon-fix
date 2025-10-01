@@ -1,7 +1,3 @@
-Sure! Here's a concise mini-guide in English for fixing the missing ARandR icon on Arch Linux:
-
----
-
 ## **Mini Guide: Fixing Missing ARandR Icon on Arch Linux**
 
 ### **Problem**
