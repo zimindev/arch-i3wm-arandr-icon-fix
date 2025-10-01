@@ -1,0 +1,1 @@
+# arch-i3wm-arandr-icon-fix
